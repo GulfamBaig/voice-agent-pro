@@ -1,0 +1,11 @@
+streamlit
+openai
+openai-whisper
+sentence-transformers
+faiss-cpu
+numpy
+scipy
+soundfile
+langdetect
+torch
+audio-recorder-streamlit
